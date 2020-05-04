@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 # This file ONLY is placed into the Public Domain, for any use,
 # Author: Yu-Sheng Lin johnjohnlys@media.ee.ntu.edu.tw
 

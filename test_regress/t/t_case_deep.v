@@ -87,7 +87,8 @@ module Test (/*AUTOARG*/
    // End of automatics
 
 /*
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
+use warnings;
 srand(5);
 my @used;
 pat:
